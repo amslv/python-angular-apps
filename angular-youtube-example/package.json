@@ -1,0 +1,20 @@
+{
+  "name": "angular-youtube-example",
+  "version": "1.0.0",
+  "description": "Sample application for searching and playing youtube videos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "youtube",
+    "nodejs",
+    "express",
+    "audio",
+    "player",
+    "video"
+  ],
+  "author": "Ana Silva",
+  "license": "ISC"
+}
