@@ -14,7 +14,7 @@ gevent==1.1.0
 gevent-socketio==0.3.6
 gevent-websocket==0.9.3
 greenlet==0.4.2
-gunicorn==19.4.5
+gunicorn==19.5.0
 idna==2.6
 ipaddress==1.0.19
 itsdangerous==0.24
